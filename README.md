@@ -2,18 +2,16 @@
 
 this is a study project from [Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). in this application, you have a button that, when you click, you'll receive one random piece of advice from the API.
 
-[try it!](https://frontendmentor-advice-generator-one.vercel.app/)
+:arrow_right: [try it here!](https://frontendmentor-advice-generator-one.vercel.app/)
 
 ## Layout
-
+    
 - **desktop version**
-<img src="./desktop.png" alt="an image from the application's desktop screen with the text: advice number 17 - sometimes it's best to ignore other people's advice" style="display: block; margin: 0 auto;">
-
+<img src="./desktop.png" alt="an image from the application's desktop screen with the text: advice number 17 - sometimes it's best to ignore other people's advice" >
 
 
 - **mobile version**
-<img src="./mobile.png" alt="an image from the application's mobile screen with the text: advice number 158 - life can be a lot more interesting inside your head" style="display: block; margin: 0 auto;">
-
+<img src="./mobile.png" alt="an image from the application's mobile screen with the text: advice number 158 - life can be a lot more interesting inside your head" >
 
 ---
 
@@ -45,7 +43,7 @@ run project
 
 ## Tests
 
-:grey_exclamation: tests with Testing Library will be available soon! :construction:
+:exclamation: tests with Testing Library will be available soon! :construction:
 
 ---
 
